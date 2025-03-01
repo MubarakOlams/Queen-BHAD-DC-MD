@@ -1,6 +1,6 @@
 {
     "__JSON__": true,
-    "AUTHOR": "BADBOI HACKER",
+    "AUTHOR": "MUBARAK OLAMSTECH",
     "theme": "QUEEN_BHAD-DC",
     "LANGUAGE": "English",
     "LANGCODE": "en",  
@@ -33,7 +33,7 @@
             "mention": "Tag my owner",
             "title": "QUEEN_BHAD-DC",
             "footer": "QUEEN_BHAD-DC",
-            "by": "Made by BADBOI HACKER",
+            "by": "Made by MUBARAK OLAMSTECH",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Done ✓",
             "dot": "Hi, Did you mean *-help?*\n just.. don't bother me while I'm eating ramen",
